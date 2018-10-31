@@ -1,0 +1,17 @@
+package db;
+
+public enum EXAB_TRANSITIONS 
+{
+    TR_PK,
+    EX_SRC_AB_TRG,
+    EX_TRG_AB_SRC,
+    THRESHOLD,
+    AB_WAVELENGTH,
+    AB_OSC_STRENGTH,
+    AB_RATE,
+    EX_BETHE,
+    EX_BORN1,
+    EX_BORN2,
+    EX_OSC_STRENGTH,
+    AB_MULTIPOLE
+}

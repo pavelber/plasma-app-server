@@ -1,0 +1,19 @@
+package db;
+
+public enum LEVELS 
+{
+    LEVEL_PK,
+    LEV_NUMBER,
+    CRM_LEV_NUMBER,
+    COMPLEX,
+    NREL_CONFIG,
+    CONFIGURATION,
+    REL_CONFIG,
+    STAT_WEIGHT,
+    PARITY,
+    ENERGY,
+    H_LIKE_OSC_STRENGTH,
+    PR_ID,
+    EL_NUMBER,
+    ION_NUMBER
+}

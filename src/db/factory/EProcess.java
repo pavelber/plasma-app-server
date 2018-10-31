@@ -1,0 +1,11 @@
+package db.factory;
+
+public enum EProcess 
+{
+	AUTOIONIZATION,
+	PHOTOIONIZATION,
+	COLLISIONAL_IONIZATION,
+	EXCITATION,
+	RADIATION,
+//	IONIZATION
+}

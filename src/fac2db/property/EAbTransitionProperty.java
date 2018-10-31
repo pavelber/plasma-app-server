@@ -1,0 +1,13 @@
+package fac2db.property;
+
+public enum EAbTransitionProperty 
+{
+	SOURCE_NUMBER,
+	SOURCE_STAT_WEIGHT,
+	TARGET_NUMBER,
+	TARGET_STAT_WEIGHT,
+	ENERGY_THRESHOLD,
+	OSC_STRENGTH,
+	RATE,
+	MULTIPOLE
+}

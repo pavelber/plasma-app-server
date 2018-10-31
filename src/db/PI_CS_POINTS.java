@@ -1,0 +1,11 @@
+package db;
+
+public enum PI_CS_POINTS 
+{
+	TR_ID, 
+	POINT_NUMBER, 
+	ENERGY, 
+	RR_CROSS_SECTION, 
+	PI_CROSS_SECTION, 
+	OSC_STRENGTH 
+}
