@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/plasma-app-server.iml" filepath="$PROJECT_DIR$/plasma-app-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plasma-app-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/plasma-app-server_main.iml" group="plasma-app-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plasma-app-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/plasma-app-server_test.iml" group="plasma-app-server" />
     </modules>
   </component>
 </project>
